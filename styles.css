@@ -21,7 +21,7 @@ main {
       rgba(252, 153, 124, 0.4),
       rgba(250, 81, 30, 0.4)
     ),
-    url("../bg.jpeg");
+    url("/WebSiteProjectsForBeginners/blob/main/bg.jpeg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
