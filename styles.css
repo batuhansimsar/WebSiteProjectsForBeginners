@@ -21,7 +21,7 @@ main {
       rgba(252, 153, 124, 0.4),
       rgba(250, 81, 30, 0.4)
     ),
-    url("/bg.jpeg");
+    url("../bg.jpeg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -366,7 +366,7 @@ main {
       rgba(252, 153, 124, 0.2),
       rgba(250, 81, 30, 0.2)
     ),
-    url("/features.jpeg");
+    url("../features.jpeg");
   background-size: cover;
   background-position: top center;
 }
